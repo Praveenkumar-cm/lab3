@@ -1,4 +1,4 @@
-//Auther name: jagathratchagan.p
+//Auther name: praveen kumar c
 //title:loops
 //date:20/08/2022
 
